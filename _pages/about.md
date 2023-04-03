@@ -19,5 +19,4 @@ My research activity focuses on Computer Vision and Deep Learning, with particul
 Latest News
 ------
 - The Florence 4D Facial Expression dataset was released and the paper presented at **FG2023**. Find the paper [here](https://ieeexplore.ieee.org/document/10042606) and the related [project](http://www.micc.unifi.it/resources/datasets/florence-4d-facial-expression/) page!
-- Received the Italian National Scientific qualification as associate, disciplinary field 09/H1: Information Processing Systems [ASN-09/H1](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/4)
--  
+- Received the **Italian National Scientific Qualification** as associate, disciplinary field 09/H1: Information Processing Systems [ASN-09/H1](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/4)
