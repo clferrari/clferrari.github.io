@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page
+I am currently assistant professor (RTD/A) at the Department of Engineering and Architecture of the University of Parma, where I actively work with the IMPLab group, led by Prof. Andrea Prati. Previously, I have been a PostDoc researcher at the Media Integration and Communication Center (MICC) of the University of Florence, working with Prof. Alberto Del Bimbo, Prof. Stefano Berretti and Prof. Pietro Pala. I have also been a visiting research scholar at the IRIS Lab of the Univeristy of Southern California (USC) in 2014, under the supervision of Prof. Gerard Medioni.
 
-Title
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research interest are
 
 Subtitle
 ------
