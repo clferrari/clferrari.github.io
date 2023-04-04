@@ -1,7 +1,7 @@
 ---
-title: "A dictionary learning-based 3D morphable shape model"
+title: "A Dictionary Learning-based 3D Morphable Shape Model"
 collection: publications
-permalink: /publication/ICPR16
+permalink: /publication/TMM17
 excerpt: 'In this paper, we propose a new approach for constructing a 3D morphable shape model (called DL-3DMM) including both identity and expression variations, which can reach the accuracy of deformation required in applications where fine details of the face are concerned.'
 date: 2017-05-23
 venue: 'IEEE Transactions on Multimedia (TMM)'

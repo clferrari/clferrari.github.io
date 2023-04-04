@@ -14,7 +14,7 @@ A pre-processed version of the Labeled Faces in The Wild ([LFW](http://vis-www.c
 
 Code can be found at this [GitHub](https://github.com/clferrari/Effective3D-based-frontalization) link.
 
-If you find our work usefule, please cite us: 
+If you find our work useful, please cite us: 
  
 >@inproceedings{ferrari2016effective,  
 >  title={Effective 3D based frontalization for unconstrained face recognition},  
