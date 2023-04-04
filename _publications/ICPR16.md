@@ -12,7 +12,9 @@ In this paper, we propose a new and effective frontalization algorithm for front
 
 A pre-processed version of the Labeled Faces in The Wild ([LFW](http://vis-www.cs.umass.edu/lfw/)) dataset can be found [here](https://www.micc.unifi.it/resources/datasets/frontalized-faces-in-the-wild/).
 
-Citation: 
+Code can be found at this [GitHub](https://github.com/clferrari/Effective3D-based-frontalization) link.
+
+If you find our work usefule, please cite us: 
  
 >@inproceedings{ferrari2016effective,  
 >  title={Effective 3D based frontalization for unconstrained face recognition},  
