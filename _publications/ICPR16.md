@@ -6,11 +6,9 @@ excerpt: 'In this paper, we propose a new and effective frontalization algorithm
 date: 2016-12-04
 venue: 'International Conference on Pattern Recognition (ICPR)'
 ---
-In this paper, we propose a new and effective frontalization algorithm for frontal rendering of unconstrained face images, and experiment it for face recognition. Initially, a 3DMM is fit to the image, and an interpolating function maps each pixel inside the face region on the image to the 3D model’s. Thus, we can render a frontal view without introducing artifacts in the final image thanks to the exact correspondence between each pixel and the 3D coordinate of the model. The 3D model is then back projected onto the frontalized image allowing us to localize image patches where to extract the feature descriptors, and thus enhancing the alignment between the same descriptor over different images.
-
 ![Paper image!](/images/icpr.png)
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7899774)
+In this paper, we propose a new and effective frontalization algorithm for frontal rendering of unconstrained face images, and experiment it for face recognition. Initially, a 3DMM is fit to the image, and an interpolating function maps each pixel inside the face region on the image to the 3D model’s. Thus, we can render a frontal view without introducing artifacts in the final image thanks to the exact correspondence between each pixel and the 3D coordinate of the model. The 3D model is then back projected onto the frontalized image allowing us to localize image patches where to extract the feature descriptors, and thus enhancing the alignment between the same descriptor over different images. [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7899774)
 
 A pre-processed version of the Labeled Faces in The Wild ([LFW](http://vis-www.cs.umass.edu/lfw/)) dataset can be found [here](https://www.micc.unifi.it/resources/datasets/frontalized-faces-in-the-wild/).
 
