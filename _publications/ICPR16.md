@@ -23,5 +23,5 @@ Citation:
 >  booktitle={2016 23rd International Conference on Pattern Recognition (ICPR)},  
 >  pages={1047--1052},  
 >  year={2016},  
->  organization={IEEE}  
->}
+>  organization={IEEE}}  
+
