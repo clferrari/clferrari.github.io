@@ -18,10 +18,16 @@ A pre-processed version of the Labeled Faces in The Wild ([LFW](http://vis-www.c
 Citation: 
  
 >@inproceedings{ferrari2016effective,
+>
 >  title={Effective 3D based frontalization for unconstrained face recognition},
+>
 >  author={Ferrari, Claudio and Lisanti, Giuseppe and Berretti, Stefano and Del Bimbo, Alberto},
+>
 >  booktitle={2016 23rd International Conference on Pattern Recognition (ICPR)},
+>
 >  pages={1047--1052},
+>
 >  year={2016},
+>
 >  organization={IEEE}
 >}
