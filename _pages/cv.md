@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * B.S. in Computer Engineering, University of Florence, 2011
 * M.S. in Computer Engineering, *cum laude*, University of Florence, 2014. Thesis: *Pose invariant face recognition*
 * Ph.D in Information Engineering, Unversity of Florence, 2018. Thesis: *Representing Faces: local and holistic approaches with application to recognition.*
 
 Work experience
-======
+------
 * 09/21 - today: Assistant Professor (RTD/A)
   * Department of Engineering and Architecture, University of Parma.
 
@@ -25,7 +25,7 @@ Work experience
   * Supervisor: Prof. Alberto Del Bimbo
   
 Skills
-======
+------
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -34,25 +34,25 @@ Skills
 * Skill 3
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Academic Service
-======
+------
 * Organizer and co-chair of the following workshops:
   * 3DOR, Eurographics workshop on 3D Object Retrieval, Florence 2022
   * *T-CAP: Towards a complete analysis of people*, in conjunction with ICIAP2021, ICPR2022, ECCV2022
@@ -84,4 +84,10 @@ Academic Service
     * ICIAP 2021
     * AVSS 2017
     * WACV 2018, 2019, 2020, 2021, 2022
-    * Neurips 2023
+    * NeurIPS 2023
+
+Awards
+------ 
+* Outstanding Reviewer award at ICCV 2021
+* Awarded a NVIDIA Titan-XP GPU for the academic NVIDIA-GPU grant program
+* Best paper award: *Investigating Nuisance Factors in Face Recognition with DCNN representation*, CVPR 2017 - IEEE Workshop on Biometrics [paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/papers/Ferrari_Investigating_Nuisance_Factors_CVPR_2017_paper.pdf)
