@@ -22,4 +22,4 @@ Latest News
 - Received the **Italian National Scientific Qualification** as associate, disciplinary field 09/H1: Information Processing Systems [ASN-09/H1](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/4)
 - Read how to perform partial swap of face parts and how it affects recognition in our new **ICPR** paper! [Paper](https://ieeexplore.ieee.org/abstract/document/9956298) and [code](https://github.com/clferrari/FacePartsSwap) available.
 - **Two papers accepted** for publication in ACM Transactions on Multimedia Computing Communication and Applications (**TOMM**)!
-- Our sparse 3D Morphable Model and dense 3D face registration algorithm are published in TPAMI! Find the paper [here](https://ieeexplore.ieee.org/abstract/document/9462361) and the code at this [GitHub](https://github.com/clferrari/SLC-3DMM) link.
+- Our sparse 3DMM and dense 3D face registration algorithm are published in **TPAMI**! [Paper](https://ieeexplore.ieee.org/abstract/document/9462361) and [code](https://github.com/clferrari/SLC-3DMM) link.
