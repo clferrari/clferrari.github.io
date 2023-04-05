@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ASD
 venue: "University of Parma, Department of Engineering and Architecture"
-date: 2023
+date: 2023-01-01
 location: "Parma, Italy"
 ---
 
