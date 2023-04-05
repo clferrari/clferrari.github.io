@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, University of Florence, 2011
-* M.S. in Computer Engineering, *summa cum laude*, University of Florence, 2014. Thesis: *Pose invariant face recognition*
+* M.S. in Computer Engineering, *cum laude*, University of Florence, 2014. Thesis: *Pose invariant face recognition*
 * Ph.D in Information Engineering, Unversity of Florence, 2018. Thesis: *Representing Faces: local and holistic approaches with application to recognition.*
 
 Work experience
