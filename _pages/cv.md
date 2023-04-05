@@ -23,15 +23,6 @@ Work experience
 * 02/18 - 09/21: PostDoc Researcher
   * MICC Lab at the Deparment of Information Engineering, University of Florence.
   * Supervisor: Prof. Alberto Del Bimbo
-  
-Skills
-------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ------
