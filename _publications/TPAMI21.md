@@ -8,7 +8,7 @@ venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
 ---
 ![Paper image!](/images/TPAMI.png)
 
-—The 3D Morphable Model (3DMM) is a powerful statistical tool for representing 3D face shapes. To build a 3DMM, a training
+The 3D Morphable Model (3DMM) is a powerful statistical tool for representing 3D face shapes. To build a 3DMM, a training
 set of face scans in full point-to-point correspondence is required, and its modeling capabilities directly depend on the variability
 contained in the training data. Thus, to increase the descriptive power of the 3DMM, establishing a dense correspondence across
 heterogeneous scans with sufficient diversity in terms of identities, ethnicities, or expressions becomes essential. In this manuscript,
@@ -18,7 +18,7 @@ with local support on the face that, together with an original non-rigid deforma
 faces and transfer its semantic annotation. We extensively experimented our approach, showing it can effectively generalize to highly
 diverse samples and accurately establish a dense correspondence even in presence of complex facial expressions. The accuracy of
 the dense registration is demonstrated by building a heterogeneous, large-scale 3DMM from more than 9,000 fully registered scans
-obtained by joining three large datasets together  [Download paper here](https://ieeexplore.ieee.org/abstract/document/9462361)
+obtained by joining three large datasets together.  [Download paper here](https://ieeexplore.ieee.org/abstract/document/9462361)
 
 Code is available at this [GitHub](https://github.com/clferrari/SLC-3DMM) link!
 
