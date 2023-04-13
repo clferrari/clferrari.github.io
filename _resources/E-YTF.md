@@ -1,5 +1,5 @@
 ---
-title: "Deep 3D Morphable Model Refinement via Progressive Growing of Conditional Generative Adversarial Networks"
+title: "Extended YouTube Faces Dataset"
 collection: resources
 permalink: /resources/E-YTF
 excerpt: 'An extension of the YouTube Faces (YTF) dataset comprising still images and video frames tailored for the task of face recognition'
