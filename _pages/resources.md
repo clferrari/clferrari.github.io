@@ -9,6 +9,6 @@ Here you can find a list of useful resources:
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.resources reversed %}
   {% include archive-single.html %}
 {% endfor %}
