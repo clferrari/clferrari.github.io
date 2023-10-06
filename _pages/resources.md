@@ -12,6 +12,8 @@ Here you can find a list of useful resources, datasets and other stuff!
 ### Semantic Image Synthesis with Class-Adaptive Cross-Attention (CA2SIS)
 [Paper](https://arxiv.org/pdf/2308.16071.pdf), [Code](https://github.com/TFonta/CA2SIS)
 
+Semantic part-level manipulation can be automatically achieved with our recent ICIAP [paper](https://arxiv.org/pdf/2307.05317.pdf). Code [here](https://github.com/TFonta/Semantic-VAE)
+
 ### 3D Talking Head Generation
 [Paper](https://arxiv.org/pdf/2306.01415.pdf), [Code](https://github.com/FedeNoce/s2l-s2d)
 
