@@ -12,7 +12,7 @@ Here you can find a list of useful resources, datasets and other stuff!
 ### Semantic Image Synthesis with Class-Adaptive Cross-Attention (CA2SIS)
 [Paper](https://arxiv.org/pdf/2308.16071.pdf), [Code](https://github.com/TFonta/CA2SIS)
 
-### 3D Taling Head Generation
+### 3D Talking Head Generation
 [Paper](https://arxiv.org/pdf/2306.01415.pdf), [Code](https://github.com/FedeNoce/s2l-s2d)
 
 ### Florence Multi-resolution 3D Facial Expression Dataset
