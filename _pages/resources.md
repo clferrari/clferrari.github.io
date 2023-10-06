@@ -9,6 +9,15 @@ Here you can find a list of useful resources, datasets and other stuff!
 
 {% include base_path %}
 
+### Semantic Image Synthesis with Class-Adaptive Cross-Attention (CA2SIS)
+[Paper](https://arxiv.org/pdf/2308.16071.pdf), [Code](https://github.com/TFonta/CA2SIS)
+
+### 3D Taling Head Generation
+[Paper](https://arxiv.org/pdf/2306.01415.pdf), [Code](https://github.com/FedeNoce/s2l-s2d)
+
+### Florence Multi-resolution 3D Facial Expression Dataset
+[Project page](https://www.micc.unifi.it/resources/datasets/florence-multi-resolution-3d-facial-expression-dataset/)
+
 ### Florence 4D Facial Expression Dataset
 [Paper](https://ieeexplore.ieee.org/document/10042606), [Project page](http://www.micc.unifi.it/resources/datasets/florence-4d-facial-expression/)
 
