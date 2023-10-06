@@ -18,6 +18,9 @@ My research activity focuses on Computer Vision and Deep Learning, with particul
 
 Latest News
 ------
+- The **Florence Multi-resolution 3D Facial Expression dataset** accepted for publication in **Pattern Recognition Letters**! Dataset will be soon available [here](https://www.micc.unifi.it/resources/datasets/florence-multi-resolution-3d-facial-expression-dataset/)
+- Recevied the ``Best Demo Award'' at IJCB 2023 for our speaker-agnostic 3D talking head generation method. Find the paper [here](https://arxiv.org/pdf/2306.01415.pdf), and the code [here](https://github.com/FedeNoce/s2l-s2d)
+- Our paper describing the limitations of current benchmark metrics for evaluating 3D face reconstruction accepted at IJCB (Oral)! 
 - The **Florence 4D Facial Expression dataset** was released and the paper presented at **FG2023**. Find the paper [here](https://ieeexplore.ieee.org/document/10042606) and the related [project](http://www.micc.unifi.it/resources/datasets/florence-4d-facial-expression/) page!
 - Received the **Italian National Scientific Qualification** as associate, disciplinary field 09/H1: Information Processing Systems [ASN-09/H1](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/4)
 - Read how to perform partial swap of face parts and how it affects recognition in our new **ICPR** paper! [Paper](https://ieeexplore.ieee.org/abstract/document/9956298) and [code](https://github.com/clferrari/FacePartsSwap) available.
