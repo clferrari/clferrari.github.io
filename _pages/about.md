@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently tenure-track assistant professor (RTT) at the Department of Information Engineering and Mathematics of the University of Siena.
+I am currently tenure-track assistant professor at the Department of Information Engineering of the University of Florence.
 
-Previously, I have been a assistant professor (RTD/A) at the Department of Engineering and Architecture of the University of Parma, working with the IMPLab led by Prof. Andrea Prati, and a PostDoc researcher at the Media Integration and Communication Center (MICC) of the University of Florence, working with Profs. Alberto Del Bimbo, Stefano Berretti and Pietro Pala. 
-
-I have also been a visiting research scholar at the IRIS Lab of the Univeristy of Southern California (USC) in 2014, under the supervision of Prof. Gerard Medioni, working with Prof. Iacopo Masi.
-
-My research activity focuses on Computer Vision and Deep Learning, with particular interest for biometrics and human analysis applications, 3D and 4D generative face and body models.  
+My research interests focus on Computer Vision, Deep Learning and Artificial Intelligence applied to biometrics, human analysis, 3D and 4D generative face and body models.  
 
 Latest News
 ------
-- **One paper accepted at Face and Gestures 2025!!** Paper and code available soon!!
-- Our text-based person search method **MARS** will appear on ACM Transactions on Multimedia Computing Communication and Applications (TOMM). Check out the preprint [arxiv](https://arxiv.org/pdf/2407.04287)
+- The extension of the ECCV 2024 paper ``ScanTalk'' accepted for publication in **IJCV**. Pre-print can be found [here](https://arxiv.org/pdf/2410.11041?)
+- **One paper accepted at FG 2025!!** Paper and code available [here](https://arxiv.org/pdf/2505.18025)!!
+- Our text-based person search method **MARS** is published on ACM Transactions on Multimedia Computing Communication and Applications (TOMM). Check out the preprint [arxiv](https://arxiv.org/pdf/2407.04287)
 - **Two papers accepted at WACV2025!!** Check out our MAMBA-ST, a state-space model for efficient style transfer [arxiv](https://arxiv.org/pdf/2409.10385) and EmoVoca, for generating emotional 3D talking heads [arxiv](https://arxiv.org/pdf/2403.12886)
 - **One paper accepted at ECCV 2024!!** Check-out our ScanTalk, a novel method for generating topology-free 3D Talking heads [arxiv](https://arxiv.org/pdf/2403.10942)
 - Received the **Italian National Scientific Qualification** as associate, disciplinary field 01/B1: Informatics!

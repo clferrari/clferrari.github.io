@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claudio Ferrari, Ph.D."
 title_separator          : "-"
 name                     : &name "Claudio Ferrari"
-description              : &description "Tenure-track Assistant Professor (RTT) - University of Siena"
+description              : &description "Tenure-track Assistant Professor (RTT) - University of Florence"
 url                      : https://clferrari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clferrari/clferrari.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Claudio Ferrari"
   avatar           : "cferrari_resized.jpg"
   bio              : "Researcher in Computer Vision, Deep Learning and 3D Vision"
-  location         : "University of Siena"
+  location         : "University of Florence"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=aael17YAAAAJ&hl=it"
-  email            :  "claudio.ferrari@unisi.it"
+  email            :  "claudio.ferrari@unifi.it"
   researchgate     :  "https://www.researchgate.net/profile/Claudio-Ferrari-4"
   uri              :
   bitbucket        :
