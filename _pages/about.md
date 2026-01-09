@@ -12,6 +12,8 @@ I am currently tenure-track assistant professor at the Department of Information
 
 My research interests focus on Computer Vision, Deep Learning and Artificial Intelligence applied to biometrics, human analysis, 3D and 4D generative face and body models.  
 
+For a complete list of publications, visit my Scholar [page](https://scholar.google.it/citations?user=aael17YAAAAJ&hl=en)
+
 Latest News
 ------
 - The extension of the ECCV 2024 paper ``ScanTalk'' accepted for publication in **IJCV**. Pre-print can be found [here](https://arxiv.org/pdf/2410.11041?)
